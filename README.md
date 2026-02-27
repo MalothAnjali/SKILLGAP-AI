@@ -1,5 +1,7 @@
 🚀 SkillGap AI
+
 📌 Overview
+
 SkillGap AI is an AI-powered web application that analyzes a user's resume against a job description to identify skill gaps and provide personalized learning recommendations. The system helps candidates understand their job readiness and improve their career prospects effectively.
 
 🎯 Features
