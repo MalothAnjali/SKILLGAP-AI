@@ -48,10 +48,15 @@ SkillGap-AI/
 │   └── index.html
 
 ├── static/
+
 │   ├── style.css
+
 │   └── assets/
+
 ├── requirements.txt
+
 └── README.md
+
 ⚙️ Installation & Setup
 
 1️⃣ Clone the repository
