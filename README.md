@@ -42,8 +42,11 @@ pandas (for data processing & analysis)
 SkillGap-AI/
 │
 ├── app.py
+
 ├── templates/
+
 │   └── index.html
+
 ├── static/
 │   ├── style.css
 │   └── assets/
