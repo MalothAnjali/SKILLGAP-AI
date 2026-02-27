@@ -39,6 +39,7 @@ pdfplumber (for resume PDF text extraction)
 pandas (for data processing & analysis)
 
 📂 Project Structure
+
 SkillGap-AI/
 │
 ├── app.py
